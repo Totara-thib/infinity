@@ -1,5 +1,7 @@
 # Infinity v3 ♾️
 
+[![Plumber Score](https://score.getplumber.io/github.com/michaelfeil/infinity.svg)](https://score.getplumber.io/github.com/michaelfeil/infinity)
+
 Infinity serves embeddings, reranking, classification, and typed decision models
 through a REST API. The native v3 server is written in Rust and uses LibTorch,
 the C++ interface of PyTorch, for model inference.
